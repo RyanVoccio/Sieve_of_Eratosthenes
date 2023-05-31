@@ -6,8 +6,8 @@
               as the first entry and export the buildfile again. --><project basedir="." default="build" name="Sieve_of_Eratosthenes">
     <property environment="env"/>
     <property name="debuglevel" value="source,lines,vars"/>
-    <property name="target" value="18"/>
-    <property name="source" value="18"/>
+    <property name="target" value="11"/>
+    <property name="source" value="11"/>
     <path id="Sieve_of_Eratosthenes.classpath">
         <pathelement location="bin"/>
     </path>
