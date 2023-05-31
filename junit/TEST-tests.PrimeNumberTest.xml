@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="DESKTOP-ATVKCUE" name="tests.PrimeNumberTest" skipped="0" tests="1" time="0.04" timestamp="2023-05-31T01:09:15">
+<testsuite errors="0" failures="0" hostname="DESKTOP-ATVKCUE" name="tests.PrimeNumberTest" skipped="0" tests="1" time="0.035" timestamp="2023-05-31T04:47:31">
   <properties>
     <property name="ant.library.dir" value="C:\Program Files\apache-ant-1.10.13\lib" />
     <property name="env.NUMBER_OF_PROCESSORS" value="24" />
@@ -15,7 +15,7 @@
     <property name="env.OS" value="Windows_NT" />
     <property name="env.CATALINA_HOME" value="C:\apache-tomcat-9.0.68" />
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.2\bin" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tests.PrimeNumberTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Ryan\Brandeis\Sieve_of_Eratosthenes_Jenkins\junit\TEST-tests.PrimeNumberTest.xml crashfile=C:\Users\Ryan\Brandeis\Sieve_of_Eratosthenes_Jenkins\junitvmwatcher14410373609236932525.properties propsfile=C:\Users\Ryan\Brandeis\Sieve_of_Eratosthenes_Jenkins\junit9534848482372904564.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tests.PrimeNumberTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Ryan\Brandeis\Sieve_of_Eratosthenes_Jenkins\junit\TEST-tests.PrimeNumberTest.xml crashfile=C:\Users\Ryan\Brandeis\Sieve_of_Eratosthenes_Jenkins\junitvmwatcher16109547128646629667.properties propsfile=C:\Users\Ryan\Brandeis\Sieve_of_Eratosthenes_Jenkins\junit158396802242117986.properties" />
     <property name="jdk.debug" value="release" />
     <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
     <property name="sun.stderr.encoding" value="cp437" />
@@ -124,7 +124,7 @@
     <property name="env.OneDrive" value="C:\Users\Ryan\OneDrive" />
     <property name="ant.project.default-target" value="build" />
   </properties>
-  <testcase classname="tests.PrimeNumberTest" name="test" time="0.002" />
+  <testcase classname="tests.PrimeNumberTest" name="test" time="0.003" />
   <system-out><![CDATA[This is the testcase in this class
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
