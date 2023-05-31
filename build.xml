@@ -77,7 +77,6 @@
             <test name="tests.PrimeNumberTest" todir="${junit.output.dir}"/>
             <jvmarg line="-ea"/>
             <classpath refid="run.tests.classpath"/>
-            <classpath location="lib/ant-junit4.jar" />
         </junit>
     </target>
     <target name="PrimeNumberTest">
